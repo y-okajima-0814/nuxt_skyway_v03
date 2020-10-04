@@ -3,12 +3,15 @@
     <div>
       <Logo :width="350" />
       <h1 class="title">NUXT<span class="green">JS</span></h1>
-      <h2 class="subtitle">Starter for CodeSandBox</h2>
+      <h2 class="subtitle">SkyWayチュートリアル</h2>
       <div class="links">
-        <a href="https://nuxtjs.org/" target="_blank" class="button--green"
-          >Documentation <IconLink
+        <a
+          href="http://localhost/index.html"
+          target="_blank"
+          class="button--green"
+          >通話を開始 <IconLink
         /></a>
-        <NLink to="/about" class="button--grey">About</NLink>
+        <NLink to="/about" class="button--grey">チャットを開始</NLink>
       </div>
     </div>
   </section>
