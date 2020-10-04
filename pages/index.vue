@@ -14,9 +14,6 @@
   </section>
 </template>
 
-<!--->
-<!--->
-
 <script>
 import Logo from "~/components/Logo.vue";
 import IconLink from "~/components/IconLink.vue";
